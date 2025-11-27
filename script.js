@@ -147,7 +147,8 @@ function alldata() {
     sum = sum + `  <div class="reels">
                 <video src="${val.video}" autoplay controls ${val.is_muted ? 'muted' : ''} loop></video>
                  <div class="mute" id="${idx}">
-                <i class="ri-volume-mute-fill"></i>
+              
+                 ${val.is_muted ? ' <i class="ri-volume-mute-fill"></i>':'<i class="ri-volume-up-fill"></i>'}
             </div>
 
                 <div class="bottom">
