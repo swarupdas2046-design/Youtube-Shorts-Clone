@@ -7,7 +7,7 @@ const reels = [
     isLiked: false,
     commentCount: 33,
     caption: "That childhood days ✏️✨",
-    video: "videos/v30.mp4",
+    video: "./Videos/v20.mp4",
     userProfile: "https://images.unsplash.com/photo-1611086699165-3462914132c0?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     shareCount: 11,
     isFollowed: false
