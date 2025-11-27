@@ -7,7 +7,7 @@ const reels = [
     isLiked: false,
     commentCount: 33,
     caption: "That childhood days ✏️✨",
-    video: "./videos/v30.mp4",
+    video: "videos/v30.mp4",
     userProfile: "https://images.unsplash.com/photo-1611086699165-3462914132c0?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     shareCount: 11,
     isFollowed: false
@@ -19,7 +19,7 @@ const reels = [
     isLiked: true,
     commentCount: 210,
     caption: "Use pain as an opportunity for success",
-    video: "./videos/v20.mp4",
+    video: "videos/v20.mp4",
     userProfile: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     shareCount: 80,
     isFollowed: true
@@ -31,7 +31,7 @@ const reels = [
     isLiked: false,
     commentCount: 77,
     caption: "Only real brothers can relate 😍😍😍😍",
-    video: "./videos/v27.mp4",
+    video: "videos/v27.mp4",
     userProfile: "https://plus.unsplash.com/premium_photo-1672239496290-5061cfee7ebb?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     shareCount: 33,
     isFollowed: false
@@ -43,7 +43,7 @@ const reels = [
     isLiked: true,
     commentCount: 628,
     caption: "Teacher pe toh bahut jorr se crush aaya tha...",
-    video: "./videos/v24.mp4",
+    video: "videos/v24.mp4",
     userProfile: "https://images.unsplash.com/photo-1519058082700-08a0b56da9b4?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     shareCount: 350,
     isFollowed: true
@@ -55,7 +55,7 @@ const reels = [
     isLiked: false,
     commentCount: 480,
     caption: "MATCH made in HEAVEN!",
-    video: "./videos/v29.mp4",
+    video: "videos/v29.mp4",
     userProfile: "https://images.unsplash.com/photo-1667829186138-55120b70d731?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     shareCount: 200,
     isFollowed: false
@@ -67,7 +67,7 @@ const reels = [
     isLiked: true,
     commentCount: 92,
     caption: "Mindset Is Everything",
-    video: "./videos/v21.mp4",
+    video: "videos/v21.mp4",
     userProfile: "https://images.unsplash.com/photo-1744066487703-03f169c55a80?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     shareCount: 28,
     isFollowed: true
@@ -79,7 +79,7 @@ const reels = [
     isLiked: false,
     commentCount: 244,
     caption: "Fail Again Fail Better 🔥🔥",
-    video: "./videos/v23.mp4",
+    video: "videos/v23.mp4",
     userProfile: "https://images.unsplash.com/photo-1674161610452-88bb7b13a931?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     shareCount: 145,
     isFollowed: true
@@ -91,7 +91,7 @@ const reels = [
     isLiked: false,
     commentCount: 134,
     caption: "Never ever play this game with BOYS.",
-    video: "./videos/v28.mp4",
+    video: "videos/v28.mp4",
     userProfile: "https://images.unsplash.com/photo-1534030347209-467a5b0ad3e6?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     shareCount: 44,
     isFollowed: false
@@ -103,7 +103,7 @@ const reels = [
     isLiked: true,
     commentCount: 510,
     caption: "Rumaal | Comedy Shorts | Aakash Gupta ",
-    video: "./videos/v25.mp4",
+    video: "videos/v25.mp4",
     userProfile: "https://images.unsplash.com/photo-1508341591423-4347099e1f19?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     shareCount: 220,
     isFollowed: true
@@ -115,7 +115,7 @@ const reels = [
     isLiked: false,
     commentCount: 310,
     caption: "Importance of patience🔥 ",
-    video: "./videos/v22.mp4",
+    video: "videos/v22.mp4",
     userProfile: "https://images.unsplash.com/photo-1492288991661-058aa541ff43?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     shareCount: 118,
     isFollowed: false
@@ -128,7 +128,7 @@ const reels = [
     isLiked: true,
     commentCount: 502,
     caption: "Believe in yourself anything is possible || Virat Kohli ||",
-    video: "./videos/v26.mp4",
+    video: "videos/v26.mp4",
     userProfile: "https://images.unsplash.com/photo-1496440737103-cd596325d314?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     shareCount: 260,
     isFollowed: false
